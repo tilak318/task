@@ -35,6 +35,10 @@ local.properties
 !debug.keystore
 .kotlin/
 
+# Gradle wrapper distribution files
+android/gradle-*.zip
+android/gradle-home/
+
 # node.js
 #
 node_modules/
